@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0443aba2ccf283a4abe79822de14d918, type: 3}
+  m_Name: Color Props
+  m_EditorClassIdentifier: 
+  propsColors:
+  - mat: {fileID: 2100000, guid: 41a90d376b49a2a4dad89d47c5b37cb0, type: 2}
+  - mat: {fileID: 2100000, guid: 683ecd2c794566248832fcffb81882e3, type: 2}
+  - mat: {fileID: 2100000, guid: 285788acbf2fe8c41879ca45c594af58, type: 2}
+  - mat: {fileID: 2100000, guid: 948546291a58baa48ad4cc59f33c0753, type: 2}
+  - mat: {fileID: 2100000, guid: 936a7fb0db8047345bc568a0d5f6420d, type: 2}
+  - mat: {fileID: 2100000, guid: eb39a363f93626349881cfdb06af3c0f, type: 2}
+  - mat: {fileID: 2100000, guid: 0185296a3602a9c419bf208b208babfc, type: 2}
+  - mat: {fileID: 2100000, guid: 5a4546ecf820b0441b4daf6900522850, type: 2}
+  - mat: {fileID: 2100000, guid: 7146e1730c757e443943e9eeb09c9181, type: 2}
+  - mat: {fileID: 2100000, guid: e4241c0a757353e489e2412306015620, type: 2}
